@@ -14,12 +14,7 @@
                 label="COM_VOLUNTEERS_FIELD_TEXT"
                 required="true"
         />
-           <field
-                name="name"
-                type="text"
-                label="COM_VOLUNTEERS_FIELD_TEXT"
-                required="true"
-        />
+      
     </fieldset>
 </form>
 
